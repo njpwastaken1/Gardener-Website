@@ -95,10 +95,8 @@ body{
   }
 
 
-/* BUTTON */
 
 .button {
-  /* REMO|VE BACKGROUND AND ADD THIS TO BUTTON */
   position: relative;
   overflow: hidden;
   z-index: 999;
